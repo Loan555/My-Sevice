@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         // master\
         //loan3
+        // chung ta khong thuoc ve nhau new member a
     }
 }
