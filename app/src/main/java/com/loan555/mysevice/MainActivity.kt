@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         //loan3
         // chung ta khong thuoc ve nhau new member a
         // new branch commit to merge
+        //sua no lai di dau
     }
 }
